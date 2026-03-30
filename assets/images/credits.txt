@@ -1,0 +1,16 @@
+Draft image references used in this website
+
+1. hero-clinic.jpg
+   Source: https://commons.wikimedia.org/wiki/File:A_dental_clinic.jpg
+
+2. clinic-room.jpg
+   Source: https://commons.wikimedia.org/wiki/File:Dental_Clinic_DVIDS261308.jpg
+
+3. braces-closeup.jpg
+   Source: https://commons.wikimedia.org/wiki/File:Orthobraces.jpg
+
+4. patient-exam.jpg
+   Source: https://commons.wikimedia.org/wiki/File:A_Navy_dentist_exames_a_patient_at_sea.jpg
+
+Note:
+These images are illustrative placeholders for the draft site and should be replaced with approved practice photography when available.
